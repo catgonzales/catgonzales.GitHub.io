@@ -15,13 +15,13 @@
 
 ---
 #### [Door Dash Project]
-[<img src=""/>]https://www.linkedin.com/pulse/doordash-analytics-catherine-gonzales/
+[<img src="Doordash.png"/>]https://www.linkedin.com/pulse/doordash-analytics-catherine-gonzales/
 An Analysis for Door Dash Sales
 
 
 ---
 #### [Education Project](https://www.linkedin.com/pulse/deep-dive-massachusetts-education-system-how-schools-gonzales/)
-[<img src=""/>]
+[<img src="Education.png"/>]
 In this case study from Data Analytics Accelerator, I was prompted to analyze the State of Massachusetts education data. The main focuses were:
 What schools are struggling the most?
 How does class size affect college admission?
