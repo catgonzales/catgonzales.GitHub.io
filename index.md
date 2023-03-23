@@ -14,14 +14,14 @@
 . 
 
 ---
-#### [External Link Project](https://www.linkedin.com/pulse/deep-dive-massachusetts-education-system-how-schools-gonzales/)
-[<img src="images/21 Days To Data Challenge What I've Learned Cover.png?raw=true"/>]([https://www.linkedin.com/pulse/what-i-learned-21-days-data-avery-smith](https://www.linkedin.com/pulse/deep-dive-massachusetts-education-system-how-schools-gonzales/)
-A data analysis on the Massachusetts Education System 
+#### [Door Dash Project]
+[<img src=""/>]https://www.linkedin.com/pulse/doordash-analytics-catherine-gonzales/
+An Analysis for Door Dash Sales
 
 
 ---
-#### [Education Project](https://www.linkedin.com/pulse/massachusetts-education-analysis-samantha-paul/)
-[<img src="images/21 Days To Data Challenge What I've Learned Cover.png?raw=true"/>](https://www.linkedin.com/pulse/what-i-learned-21-days-data-avery-smith)
+#### [Education Project](https://www.linkedin.com/pulse/deep-dive-massachusetts-education-system-how-schools-gonzales/)
+[<img src=""/>](https://www.linkedin.com/pulse/what-i-learned-21-days-data-avery-smith)
 In this case study from Data Analytics Accelerator, I was prompted to analyze the State of Massachusetts education data. The main focuses were:
 What schools are struggling the most?
 How does class size affect college admission?
