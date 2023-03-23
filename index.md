@@ -5,12 +5,12 @@
 ### Learn About My Projects
 
 #### [Internal Blog Post Project](/bank)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src=""/>
 
 
 ---
 #### [Linked File Project](/files/Day 12 - 21 days to data.pdf)
-<img src="images/21 Days To Data Challenge.png?raw=true"/>
+<img src=""/>
 . 
 
 ---
@@ -21,7 +21,7 @@ An Analysis for Door Dash Sales
 
 ---
 #### [Education Project](https://www.linkedin.com/pulse/deep-dive-massachusetts-education-system-how-schools-gonzales/)
-[<img src=""/>](https://www.linkedin.com/pulse/what-i-learned-21-days-data-avery-smith)
+[<img src=""/>]
 In this case study from Data Analytics Accelerator, I was prompted to analyze the State of Massachusetts education data. The main focuses were:
 What schools are struggling the most?
 How does class size affect college admission?
