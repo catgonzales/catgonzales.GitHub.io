@@ -4,18 +4,14 @@
 
 ### Learn More About My Projects
 
-#### [Internal Blog Post Project](/)
-<img src=""/>
-
-
----
 #### [Door Dash Project](https://www.linkedin.com/pulse/doordash-analytics-catherine-gonzales/)
 <img src="images/Doordash.png"/>
-An Analysis for Door Dash Sales
+In this project, I analyzed data from door dash, to better understand sales and customer patterns.
+
 ---
 #### [Education Project](https://www.linkedin.com/pulse/deep-dive-massachusetts-education-system-how-schools-gonzales/)
 <img src="images/Education.png"/>
-
+For this project, I analyzed Massachusetts Education data to show school performance.
 ---
 
 ### Category Name 2
