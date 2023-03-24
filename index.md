@@ -4,17 +4,17 @@
 
 ### Learn More About My Projects
 
-#### [Internal Blog Post Project](/bank)
+#### [Internal Blog Post Project](/)
 <img src=""/>
 
 
 ---
 #### [Door Dash Project](https://www.linkedin.com/pulse/doordash-analytics-catherine-gonzales/)
-<img src="Doordash.png"/>
+<img src="images/Doordash.png"/>
 An Analysis for Door Dash Sales
 ---
 #### [Education Project](https://www.linkedin.com/pulse/deep-dive-massachusetts-education-system-how-schools-gonzales/)
-<img src="Education.png"/>
+<img src="images/Education.png"/>
 
 ---
 
