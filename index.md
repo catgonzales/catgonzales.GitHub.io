@@ -9,12 +9,12 @@
 
 
 ---
-#### [Door Dash Project]
-[<img src="Doordash.png"/>]https://www.linkedin.com/pulse/doordash-analytics-catherine-gonzales/
+#### [Door Dash Project](https://www.linkedin.com/pulse/doordash-analytics-catherine-gonzales/)
+<img src="Doordash.png"/>
 An Analysis for Door Dash Sales
 ---
 #### [Education Project](https://www.linkedin.com/pulse/deep-dive-massachusetts-education-system-how-schools-gonzales/)
-[<img src="Education.png"/>]
+<img src="Education.png"/>
 
 ---
 
